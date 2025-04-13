@@ -1,0 +1,40 @@
+{
+  "name": "keyzen",
+  "version": "0.0.1",
+  "description": "Simple and lightweight hotkey subscription manager for the web, built with TypeScript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo \"No tests yet\"",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atdetquizan/keyzen.git"
+  },
+  "keywords": [
+    "hotkeys",
+    "keyboard",
+    "shortcuts",
+    "typescript",
+    "frontend",
+    "key combinations"
+  ],
+  "author": "Tu Nombre <tu.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atdetquizan/keyzen/issues"
+  },
+  "homepage": "https://github.com/atdetquizan/keyzen#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^7.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.1",
+    "@semantic-release/npm": "^12.0.1",
+    "semantic-release": "^24.2.3",
+    "typescript": "^5.8.3"
+  }
+}
