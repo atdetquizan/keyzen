@@ -1,5 +1,5 @@
 {
-  "name": "keyzen",
+  "name": "keyzenio",
   "version": "1.0.0",
   "description": "Simple and lightweight hotkey subscription manager for the web, built with TypeScript.",
   "main": "dist/index.js",
