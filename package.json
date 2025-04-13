@@ -4,6 +4,9 @@
   "description": "Simple and lightweight hotkey subscription manager for the web, built with TypeScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch",
