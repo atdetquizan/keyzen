@@ -1,3 +1,3 @@
 export function keyzen() {
-  console.log("KEYZEN");
+  console.log("KEYZEN IO");
 }
