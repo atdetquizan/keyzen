@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/atdetquizan/keyzen/compare/v1.1.0...v1.1.1) (2025-04-13)
+
+
+### Bug Fixes
+
+* mejoras de nombre ([fdf377f](https://github.com/atdetquizan/keyzen/commit/fdf377f720c03adeae0037e35dafdb3dbec04abd))
+
 # [1.1.0](https://github.com/atdetquizan/keyzen/compare/v1.0.0...v1.1.0) (2025-04-13)
 
 
